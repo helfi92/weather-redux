@@ -1,0 +1,9 @@
+<<<<<<< 8047fa3b6b92e5feb87e547eb004cd1489da4e3d
+*.DS_Store
+node_modules/
+=======
+/node_modules
+bundle.js
+npm-debug.log
+*.DS_Store
+>>>>>>> fix missing files
